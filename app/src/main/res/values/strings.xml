@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">RU Cafe</string>
+    <string name="cream">Cream</string>
+    <string name="syrup">Syrup</string>
+    <string name="whipped_cream">Whipped Cream</string>
+    <string name="milk">Milk</string>
+    <string name="caramel">Caramel</string>
+    <string name="_1_69">$1.69</string>
+    <string name="add_to_order">Add To Order</string>
+    <string name="order_donuts">Order Donuts</string>
+    <string name="store_orders">Store Orders</string>
+    <string name="order_coffee">Order Coffee</string>
+    <string name="order_coffee_label">Order Coffee</string>
+    <string name="price">Price</string>
+    <string name="donut">Donut</string>
+    <string name="order">+</string>
+    <string name="ordering_basket">Ordering Basket</string>
+    <string name="textview">Ordering Basket</string>
+    <string name="subtotalLabel">Subtotal:</string>
+    <string name="salesTaxLabel">Sales Tax:</string>
+    <string name="subtotalBasket">$0.00</string>
+    <string name="total">Total:</string>
+    <string name="total2">$0.00</string>
+    <string name="salesTax">$0.00</string>
+    <string name="placeOrder">Place Order</string>
+    <string name="store">Store Orders</string>
+
+    <string-array name="donut_offerings">
+        <item>Powdered Yeast</item>
+        <item>Glazed Yeast</item>
+        <item>Chocolate Glazed Yeast</item>
+        <item>Chocolate Frosted Yeast</item>
+        <item>Strawberry Frosted Yeast</item>
+        <item>Jelly Yeast</item>
+        <item>Vanilla Cake</item>
+        <item>Chocolate Cake</item>
+        <item>Strawberry Cake</item>
+        <item>Cinnamon Holes</item>
+        <item>Jelly Holes</item>
+        <item>Chocolate Holes</item>
+        <item>Glazed Holes</item>
+    </string-array>
+
+    <string-array name="prices">
+        <item>$1.59</item>
+        <item>$1.59</item>
+        <item>$1.59</item>
+        <item>$1.59</item>
+        <item>$1.59</item>
+        <item>$1.59</item>
+        <item>$1.79</item>
+        <item>$1.79</item>
+        <item>$1.79</item>
+        <item>$0.39</item>
+        <item>$0.39</item>
+        <item>$0.39</item>
+        <item>$0.39</item>
+    </string-array>
+</resources>
