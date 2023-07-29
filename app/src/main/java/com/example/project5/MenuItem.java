@@ -7,7 +7,7 @@ package com.example.project5;
 public abstract class MenuItem {
 
     /**
-     * This method calculates the price of the menu item.
+     * Calculates the price of the menu item.
      * @return the price of the item
      */
     public abstract double itemPrice();

@@ -60,7 +60,7 @@ public class Order implements Customizable{
     }
 
     /**
-     * Method to set the order's number after creation
+     * Sets the order's number after creation
      * @param i the new order number
      */
     public void setOrderNo(int i){
@@ -68,15 +68,7 @@ public class Order implements Customizable{
     }
 
     /**
-     * Method to retrieve the order's number
-     * @return the order number
-     */
-    public int getOrderNumber(){
-        return this.orderNumber;
-    }
-
-    /**
-     * Method to retrieve the order's menu items
+     * Retrieves the order's menu items
      * @return the ArrayList containing the menu items
      */
     public ArrayList<MenuItem> getMenuItems(){

@@ -60,7 +60,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
     }
 
     /**
-     * Getter method to retrieve the amount of items in the recycler view.
+     * Retrieves the amount of items in the recycler view.
      * @return the amount of items
      */
     @Override
@@ -97,7 +97,7 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
         }
 
         /**
-         * Method to set up a listener for the add button.
+         * Sets up a listener for the add button.
          * @param itemView the view
          */
         private void setAddButtonOnClick(@NonNull View itemView){

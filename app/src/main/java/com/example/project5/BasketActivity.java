@@ -139,7 +139,7 @@ public class BasketActivity extends AppCompatActivity {
     }
 
     /**
-     * This method updates the TextViews upon any change in the item list.
+     * Updates the TextViews upon any change in the item list.
      */
     private void updateTotals(){
         NumberFormat formatter = NumberFormat.getCurrencyInstance();
